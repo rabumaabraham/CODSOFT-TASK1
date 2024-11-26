@@ -1,6 +1,6 @@
 # To-Do List CLI Application
 
-This is a simple To-Do List Manager built using Python. It allows users to manage and organize their tasks efficiently in the command line interface. With this app, users can:
+This is a fully functional To-Do List CLI Application built using python, during my python programming internship at CodSoft. This simple To-Do List CLI Application allows users to manage and organize their tasks efficiently in the command line interface. With this app, users can:
 
 - Add, edit, delete, and mark tasks as done
 - View all tasks and their statuses
