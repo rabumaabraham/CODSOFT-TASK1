@@ -43,7 +43,7 @@ This is a simple To-Do List Manager built using Python. It allows users to manag
 
 3. **Open the project**:
 
-    python todo.py
+    python 2do.py
 
 ## Example Usage
 
