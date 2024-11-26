@@ -11,7 +11,7 @@ This is a simple To-Do List Manager built using Python. It allows users to manag
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Example Usage](#usage)
+- [Example Usage](#example-usage)
 
 ## Features
 
